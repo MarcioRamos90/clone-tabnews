@@ -1,12 +1,10 @@
 function Home() {
   return (
     <h1>
-      Olá Carolzinha, vc está sempre por aqui? ... se tu me ama dê uma
-      risadinha!
+      Aqui está em construção uma plataforma de compartilhamento dos meus
+      conhecimentos...
     </h1>
   );
 }
-
-function test() {}
 
 export default Home;
